@@ -10,10 +10,7 @@
 - 🎓 **Currently:** Junior pursuing a **Bachelor's in Information Technology**  
 - 💡 **Expertise:** Machine Learning, Generative AI, LLMs, Data Science, Full-Stack Development  
 - 🔬 **Projects:**  
-  - **ALLM**: A powerful open-source framework for running **local LLMs** with inference APIs.  
-  - **Docs2Answer**: A **RAG-based AI chatbot** for answering questions from documentation using ChromaDB & LlamaIndex.  
-  - **Neural Style Transfer & Image Processing**: Implementing artistic transformations with PyTorch.  
-  - **GAN-based Multimodal Feature Extraction**: Applying GANs to Alzheimer's disease dataset for classification.  
+  - **OmniChat**: A powerful chat assistant to answer all your questions with copying and cross checking features.  
 - 🛠 **Tech Stack:** Python, Flask, FastAPI, LlamaIndex, LangChain, PyTorch, TensorFlow, Vertex AI, Azure AI, SQL, SQLite, Docker, WebSockets, SocketIO, Flutter  
 - 📬 **How to reach me:** **cholletichakradhar@gmail.com**  
 - 📖 **Fun fact:** I love reading **tech and adventure books** 📚  
